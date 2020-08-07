@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019-2020 Pablo Ivan Fonovich <azagaya.games@gmail.com> -->
+<component type="desktop">
+  <id>io.itch.azagaya.Laigter.desktop</id>
+  <name>Laigter</name>
+  <summary>Tool to generate normal, specular, occlussion and parallax maps for 2D textures</summary>
+  <description>
+    <p>
+      Laigter is a tool that automatically generates maps for dynamic lighting effects
+      in games. It allows normal, parallax, specular and occlusion map generation.
+      Also, it allows the user to preview how the effect will look in-game.
+    </p>
+  </description>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <developer_name>Pablo Ivan Fonovich</developer_name>
+  <url type="homepage">https://azagaya.itch.io/laigter</url>
+  <url type="bugtracker">https://github.com/azagaya/laigter/issues</url>
+  <url type="donation">https://www.patreon.com/azagaya</url>
+  <screenshots>
+    <screenshot type="default" width="1366" height="740">
+      <caption>Preview of sprite render with generated maps</caption>
+      <image>https://user-images.githubusercontent.com/46932830/60845793-cbaf6c00-a1b3-11e9-999b-404670185b4c.png</image>
+    </screenshot>
+    <screenshot type="default" width="1366" height="740">
+      <caption>Configuration of normal map texture</caption>
+      <image>https://user-images.githubusercontent.com/46932830/60845823-dcf87880-a1b3-11e9-8772-a42180f3abdc.png</image>
+    </screenshot>
+    <screenshot type="default" width="977" height="622">
+      <caption>2D lighting preview</caption>
+      <image>https://user-images.githubusercontent.com/46932830/60845822-dcf87880-a1b3-11e9-879c-e909fbd83469.png</image>
+    </screenshot>
+    <screenshot type="default" width="1366" height="740">
+      <caption>2D lighting preview</caption>
+      <image>https://user-images.githubusercontent.com/46932830/60845825-dcf87880-a1b3-11e9-9f32-45ccc27abe0f.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.10.1" date="2020-07-26" />
+    <release version="1.10" date="2020-07-05" />
+    <release version="1.9.2" date="2020-05-30" />
+    <release version="1.9.1" date="2020-05-10" />
+    <release version="1.9" date="2020-04-16" />
+    <release version="1.8.1" date="2020-02-08" />
+    <release version="1.8" date="2019-12-09" />
+    <release version="1.7" date="2019-10-05" />
+    <release version="1.6" date="2019-09-04" />
+  </releases>
+  <content_rating type="oars-1.1" />
+  <update_contact>azagaya.games@gmail.com</update_contact>
+</component>
